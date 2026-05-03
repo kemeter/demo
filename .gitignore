@@ -1,0 +1,11 @@
+# Go
+go/bin/
+
+# Rust
+rust/target/
+
+# Java
+java/*.class
+
+# OS
+.DS_Store
